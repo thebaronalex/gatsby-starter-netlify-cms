@@ -1,9 +1,9 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
-image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+title: Baron Solutions
+image: /img/blog-index.jpg
+heading: ' Blah'
+subheading: 'Leveraging the Best  in Legal, Technical and Marketing Solutions'
 mainpitch:
   title: Why Kaldi
   description: >
@@ -68,3 +68,4 @@ main:
     alt: Coffee beans
     image: /img/products-grid1.jpg
 ---
+
