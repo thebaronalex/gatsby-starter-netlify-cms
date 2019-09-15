@@ -5,7 +5,9 @@ image: /img/jumbotron.jpg
 heading: 'Consulting Tomorrow, Today'
 description: 'Tomorrow''s innovations, today'
 intro:
-  blurbs: []
+  blurbs:
+    - image: /img/apple-touch-icon.png
+      text: gold
   heading: What we offer
   description: |
     ULtimate
@@ -22,11 +24,18 @@ main:
   image3:
     alt: Coffee beans
     image: /img/products-grid1.jpg
-testimonials: []
+testimonials:
+  - author: Alex
+    quote: Th
 full_image: /img/products-full-width.jpg
 pricing:
   heading: Services
   description: Yo
-  plans: []
+  plans:
+    - description: gold
+      items:
+        - gold
+      plan: Gold
+      price: $10
 ---
 
