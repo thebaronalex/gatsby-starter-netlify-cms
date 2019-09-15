@@ -1,11 +1,11 @@
 ---
 templateKey: index-page
 title: Baron Solutions
-image: /img/blog-index.jpg
+image: /img/img_20160912_132915.jpg
 heading: ' Blah 2'
 subheading: 'Leveraging the Best  in Legal, Technical and Marketing Solutions'
 mainpitch:
-  title: Why Kaldi
+  title: Why Kaldi 2
   description: >
     Kaldi is the coffee store for everyone who believes that great coffee
     shouldn't just taste good, it should do good too. We source all of our beans
