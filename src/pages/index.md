@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Baron Solutions
-image: /img/blog-index.jpg
+image: /img/img_20160912_132915.jpg
 heading: 'Baron Solutions: Transforming The Way You Do Business'
 subheading: 'Leveraging the Best in Legal, Technical and Marketing Solutions'
 mainpitch:
