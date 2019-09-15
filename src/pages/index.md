@@ -12,7 +12,8 @@ mainpitch:
 description: >-
   In today's marketplace, it doesn't pay to play it safe. Baron Solutions
   challenges decisions makers to innovate by keeping up to date with the latest
-  trends in technology and business. Curiosity is one of our core tenants 
+  trends in technology and business. Curiosity is one of our core values and the
+  minute we think we know anything for certain we believe we stop growing. 
 intro:
   blurbs:
     - image: /img/coffee.png
