@@ -1,17 +1,18 @@
 ---
 templateKey: index-page
-title: Baron Solutions
+title: Baron Solutions =
 image: /img/p1010877-hdr-2.jpg
-heading: Baron Solutions
-subheading: Helping You Find the Best & Latest Technical Solutions
+heading: Curiosity Killed The Cat...
+subheading: The Best Solutions + A Deep Understanding of Your Business
 mainpitch:
   title: The World Is Changing Faster Than Ever
   description: >-
     In order to remain competitive in today's environment, businesses need to
-    offer services with more efficiency, more accessibility and 
+    offer on-demand services with more efficiency than ever. 
 description: >-
-  Baron Solutions is a firm offering technical solution consulting. We have
-  extensive experience in the area specifically related to legal field. 
+  In today's marketplace, it doesn't pay to play it safe. Baron Solutions
+  challenges decisions makers to innovate by keeping up to date with the latest
+  trends in technology and business. Curiosity is one of our core tenants 
 intro:
   blurbs:
     - image: /img/coffee.png
