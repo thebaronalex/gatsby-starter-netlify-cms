@@ -22,11 +22,18 @@ main:
   image3:
     alt: Coffee beans
     image: /img/products-grid1.jpg
-testimonials: []
+testimonials:
+  - author: Alex
+    quote: Th
 full_image: /img/products-full-width.jpg
 pricing:
   heading: Services
   description: Yo
-  plans: []
+  plans:
+    - description: gold
+      items:
+        - gold
+      plan: Gold
+      price: $10
 ---
 
