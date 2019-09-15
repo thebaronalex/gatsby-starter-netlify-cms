@@ -1,21 +1,17 @@
 ---
 templateKey: index-page
 title: Baron Solutions
-image: /img/img_20160912_132915.jpg
-heading: ' Blah 2'
-subheading: 'Leveraging the Best  in Legal, Technical and Marketing Solutions'
+image: /img/p1010877-hdr-2.jpg
+heading: Baron Solutions
+subheading: Helping You Find the Best & Latest Technical Solutions
 mainpitch:
-  title: Why Kaldi 2
-  description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+  title: The World Is Changing Faster Than Ever
+  description: >-
+    In order to remain competitive in today's environment, businesses need to
+    offer services with more efficiency, more accessibility and 
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  Baron Solutions is a firm offering technical solution consulting. We have
+  extensive experience in the area specifically related to legal field. 
 intro:
   blurbs:
     - image: /img/coffee.png
