@@ -2,7 +2,7 @@
 templateKey: index-page
 title: Baron Solutions
 image: /img/blog-index.jpg
-heading: ' Blah'
+heading: ' Blah 2'
 subheading: 'Leveraging the Best  in Legal, Technical and Marketing Solutions'
 mainpitch:
   title: Why Kaldi
