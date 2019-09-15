@@ -5,7 +5,9 @@ image: /img/jumbotron.jpg
 heading: 'Consulting Tomorrow, Today'
 description: 'Tomorrow''s innovations, today'
 intro:
-  blurbs: []
+  blurbs:
+    - image: /img/apple-touch-icon.png
+      text: gold
   heading: What we offer
   description: |
     ULtimate
