@@ -15,7 +15,9 @@ description: >-
   trends in technology and business. Curiosity is one of our core values and the
   minute we think we know anything for certain we believe we stop growing. 
 intro:
-  blurbs: []
+  blurbs:
+    - image: /img/coffee-gear.png
+      text: Cups
   heading: What we offer
   description: |+
 
